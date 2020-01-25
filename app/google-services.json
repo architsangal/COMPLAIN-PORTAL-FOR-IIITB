@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82102789830",
+    "firebase_url": "https://complain-portal-iiitb.firebaseio.com",
+    "project_id": "complain-portal-iiitb",
+    "storage_bucket": "complain-portal-iiitb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82102789830:android:fb79c41cc490468ab199c7",
+        "android_client_info": {
+          "package_name": "com.awesome.complainportaliiitb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82102789830-34bp3gbn7hs89llse6lijfv8qunjeetg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesome.complainportaliiitb",
+            "certificate_hash": "13061045a87981ed652e8efbe04a786a789e6afb"
+          }
+        },
+        {
+          "client_id": "82102789830-o76hj6lqo6r020h39hshplkvmp5o88ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmRtP5p7lP95n2EmZqlHNriKafkn8-N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82102789830-o76hj6lqo6r020h39hshplkvmp5o88ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
